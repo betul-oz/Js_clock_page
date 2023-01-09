@@ -1,1 +1,1 @@
-# Js_clock_page
+# JavaScript
